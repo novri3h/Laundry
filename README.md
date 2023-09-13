@@ -1,4 +1,4 @@
-# Delphi-Laundry
+# Aplikasi Laundry Portable
 
 ![Program Laundry](https://github.com/novri3h/Delphi-Laundry/assets/25641359/eb24bb6e-470e-4fd8-a9e7-491a3f014035)
 
