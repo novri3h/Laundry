@@ -14,47 +14,61 @@ Aplikasi ini merupakan perangkat lunak yang dirancang untuk dapat dijalankan tan
 Berikut adalah beberapa komponen utama dari aplikasi laundry:
 
 [Menu Master]
-- Master User List
+- Master User List :
   Menu daftar pengguna yang memiliki akses atau peran tertentu dalam sistem aplikasi laundry.
-- Master Laundry
+- Master Laundry :
   Menu untuk menginput layanan Jasa Laundry baru, dimana terdapat kode barang, satuan (pcs/ kilo), harga Reguler, Harga Quickly Express dan Harga Express Wash.
-- Master Member
+- Master Member :
   Fitur ini membantu bisnis laundry dalam mengelola anggota atau pelanggan yang memiliki status sebagai anggota atau member.
-- Data Company Laundry
+- Data Company Laundry :
   Mencakup informasi yang diperlukan untuk mengelola dan mengidentifikasi usaha laundry.
-- Master Stock
-  Fitur menu yang memungkinkan Anda untuk mengelola dan melacak persediaan atau inventaris yang digunakan dalam operasi laundry Anda. Dalam konteks laundry, persediaan ini mungkin mencakup deterjen, pelembut pakaian, plastik pembungkus, bahan pembersih lainnya, hanger, atau bahkan mesin-mesin laundry itu sendiri.
+- Master Stock :
+  Fitur menu yang memungkinkan Anda untuk mengelola dan melacak persediaan atau inventaris yang digunakan dalam operasi laundry Anda. 
+  Dalam konteks laundry, persediaan ini mungkin mencakup deterjen, pelembut pakaian, plastik pembungkus, bahan pembersih lainnya, 
+  hanger, atau bahkan mesin-mesin laundry itu sendiri.
 
 [Menu Transaksi]
-- Penerimaan Laundry
+- Penerimaan Laundry :
   Fitur dari aplikasi yang digunakan oleh pemilik atau staf laundry untuk menerima pesanan laundry dari pelanggan. Menu ini memiliki berbagai fitur yang memudahkan dalam mengelola pesanan, jadwal, dan informasi pelanggan.
-- Pembayaran Laundry
-  Merupakan fitur penting dari proses transaksi pelanggan. Menu ini biasanya mencakup berbagai pilihan pembayaran yang dapat digunakan oleh pelanggan untuk membayar layanan laundry mereka.
-- Transaksi Pemasukan
+- Pembayaran Laundry :
+  Merupakan fitur penting dari proses transaksi pelanggan. Menu ini biasanya mencakup berbagai pilihan pembayaran yang dapat digunakan 
+  oleh pelanggan untuk membayar layanan laundry mereka.
+- Transaksi Pemasukan :
   Menu ini memungkinkan pemilik atau operator laundry untuk mencatat dan melacak semua pemasukan yang diterima dari pelanggan.
-- Transaksi Pengeluaran
+- Transaksi Pengeluaran :
   Menu ini dirancang untuk mencatat semua pengeluaran yang terkait dengan operasi bisnis laundry.
 
 [Menu Display]
-- Display Laundry
-  Merupakan Fitur Menu dimana user dapat melihat semua data Laundry meliputi pembayararan sudah lunas maupun belum lunas dan pencarian data menggunakan filter tanggal, nama pelanggan serta alamat
-- Rekap Harian
-  Fitur yang memungkinkan pemilik atau pengelola usaha laundry untuk melihat ringkasan aktivitas harian mereka. Ini membantu dalam mengelola operasi sehari-hari, memantau kinerja, dan membuat keputusan berdasarkan data yang tersedia.
-- History Transaksi Stock
-  Merupakan Fitur  yang digunakan untuk melacak dan mengelola stok barang atau bahan yang digunakan dalam operasi laundry. Menu ini berisi informasi tentang semua transaksi yang terkait dengan stok, seperti pembelian, penggunaan, penyesuaian, dan penjualan bahan-bahan laundry. Tujuan dari menu ini adalah untuk memantau persediaan barang, menghindari kekurangan atau kelebihan stok, dan memastikan bahwa proses laundry berjalan lancar.
-- Rekap Transaksi Kas
-  Menu Rekap Transaksi Kas dalam aplikasi laundry adalah fitur yang berguna untuk melihat ringkasan transaksi keuangan yang telah terjadi dalam bisnis laundry. Dalam menu ini, terdapat berbagai informasi penting tentang pemasukan dan pengeluaran kas laundry.
+- Display Laundry :
+  Merupakan Fitur Menu dimana user dapat melihat semua data Laundry meliputi pembayararan sudah lunas maupun belum lunas dan pencarian 
+  data menggunakan filter tanggal, nama pelanggan serta alamat
+- Rekap Harian :
+  Fitur yang memungkinkan pemilik atau pengelola usaha laundry untuk melihat ringkasan aktivitas harian mereka. Ini membantu dalam 
+  mengelola operasi sehari-hari, memantau kinerja, dan membuat keputusan berdasarkan data yang tersedia.
+- History Transaksi Stock :
+  Merupakan Fitur  yang digunakan untuk melacak dan mengelola stok barang atau bahan yang digunakan dalam operasi laundry. Menu ini 
+  berisi informasi tentang semua transaksi yang terkait dengan stok, seperti pembelian, penggunaan, penyesuaian, dan penjualan bahan- 
+  bahan laundry. Tujuan dari menu ini adalah untuk memantau persediaan barang, menghindari kekurangan atau kelebihan stok, dan 
+  memastikan bahwa proses laundry berjalan lancar.
+- Rekap Transaksi Kas :
+  Menu Rekap Transaksi Kas dalam aplikasi laundry adalah fitur yang berguna untuk melihat ringkasan transaksi keuangan yang telah 
+  terjadi dalam bisnis laundry. Dalam menu ini, terdapat berbagai informasi penting tentang pemasukan dan pengeluaran kas laundry.
 
 [Menu Laporan]
-- Laporan detail
-  Menu laporan detail pada aplikasi laundry yang memungkinkan pengguna untuk mengakses informasi terperinci tentang transaksi laundry yang telah dilakukan. Menu ini berisi berbagai laporan dan data yang berguna untuk pemantauan dan analisis bisnis laundry.
-- Rekap Per User
-  Menu Rekap Per User pada aplikasi laundry adalah fitur yang memungkinkan pemilik atau pengelola usaha laundry untuk melihat data dan statistik yang berkaitan dengan aktivitas pelanggan secara individual. Fitur ini dapat membantu dalam mengelola pelanggan, mengoptimalkan layanan, dan menganalisis kinerja usaha Laundy.
-- Rekap Per Paket Laundry
-  Menu rekap per paket laundry merupakan bagian dari aplikasi laundry yang digunakan untuk melacak dan mengelola semua pesanan pelanggan serta menghasilkan laporan yang berguna untuk pengelolaan bisnis.
-- Laporan Laba Bersih
-  Menu ini dapat membantu pemilik usaha laundry untuk memantau kinerja keuangan dan membuat keputusan yang lebih baik dalam pengelolaan bisnis laundry.
-- Laporan Pemasukan dan Pengeluaran
+- Laporan detail :
+  Menu laporan detail pada aplikasi laundry yang memungkinkan pengguna untuk mengakses informasi terperinci tentang transaksi laundry 
+  yang telah dilakukan. Menu ini berisi berbagai laporan dan data yang berguna untuk pemantauan dan analisis bisnis laundry.
+- Rekap Per User :
+  Menu Rekap Per User pada aplikasi laundry adalah fitur yang memungkinkan pemilik atau pengelola usaha laundry untuk melihat data dan 
+  statistik yang berkaitan dengan aktivitas pelanggan secara individual. Fitur ini dapat membantu dalam mengelola pelanggan, 
+  mengoptimalkan layanan, dan menganalisis kinerja usaha Laundy.
+- Rekap Per Paket Laundry :
+  Menu rekap per paket laundry merupakan bagian dari aplikasi laundry yang digunakan untuk melacak dan mengelola semua pesanan pelanggan 
+  serta menghasilkan laporan yang berguna untuk pengelolaan bisnis.
+- Laporan Laba Bersih :
+  Menu ini dapat membantu pemilik usaha laundry untuk memantau kinerja keuangan dan membuat keputusan yang lebih baik dalam pengelolaan 
+  bisnis laundry.
+- Laporan Pemasukan dan Pengeluaran :
   Menu Laporan Pemasukan dan Pengeluaran berguna untuk membantu, melacak dan mengelola keuangan Laundry dengan lebih efisien.
 
 Untuk Login Ke Aplikasi, Username dan password ---> admin
@@ -63,10 +77,17 @@ Untuk Login Ke Aplikasi, Username dan password ---> admin
 
 Aplikasi ini dibangun dengan menggunakan:
 
-- [Pencil project](https://pencil.evolus.vn) - Aplikasi Pencil Project merupakan aplikasi open source GUI Prototyping yang digunakan untuk menggambar mockup dan mendesain tampilan UI.
-- [Delphi](https://www.embarcadero.com/products/delphi) - Delphi adalah sebuah lingkungan pengembangan perangkat lunak (IDE - Integrated Development Environment) dan bahasa pemrograman yang pertama kali dikembangkan oleh Borland pada tahun 1995. Delphi terutama digunakan untuk mengembangkan aplikasi desktop, termasuk aplikasi Windows dan perangkat lunak berbasis GUI (Graphical User Interface).
-- [MS Access](https://www.microsoft.com/id-id/microsoft-365/access) - Perangkat lunak manajemen basis data yang dikembangkan oleh Microsoft. Ini adalah bagian dari paket Microsoft Office dan dirancang untuk membantu individu dan organisasi dalam membuat, mengelola, dan mengakses basis data.
-- [Windows] - Windows adalah sebuah sistem operasi yang dikembangkan oleh Microsoft Corporation. Sistem operasi ini dirancang untuk digunakan pada komputer pribadi (PC), server, tablet, dan perangkat lainnya.
+- [Pencil project](https://pencil.evolus.vn) - Aplikasi Pencil Project merupakan aplikasi open source GUI Prototyping yang digunakan 
+  untuk menggambar mockup dan mendesain tampilan UI.
+- [Delphi](https://www.embarcadero.com/products/delphi) - Delphi adalah sebuah lingkungan pengembangan perangkat lunak (IDE - 
+  Integrated Development Environment) dan bahasa pemrograman yang pertama kali dikembangkan oleh Borland pada tahun 1995. Delphi 
+  terutama digunakan untuk mengembangkan aplikasi desktop, termasuk aplikasi Windows dan perangkat lunak berbasis GUI (Graphical User 
+  Interface).
+- [MS Access](https://www.microsoft.com/id-id/microsoft-365/access) - Perangkat lunak manajemen basis data yang dikembangkan oleh 
+  Microsoft. Ini adalah bagian dari paket Microsoft Office dan dirancang untuk membantu individu dan organisasi dalam membuat, 
+  mengelola, dan mengakses basis data.
+- [Windows] - Windows adalah sebuah sistem operasi yang dikembangkan oleh Microsoft Corporation. Sistem operasi ini dirancang untuk 
+  digunakan pada komputer pribadi (PC), server, tablet, dan perangkat lainnya.
 
 ## Requirement
 
